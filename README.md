@@ -1,1 +1,1 @@
-This is the small project about the convertion of emoji into text in seperately and combinely with sentence.
+This is the small project about the convertion of emoji into text seperately or with sentence.
